@@ -24,10 +24,10 @@ function Projects() {
     {
       title: "MODERN ONLINE FOOD",
       description:
-        "Asset Marketsquare is an Ethiopian marketplace that connects brokers for buying, selling, or renting cars and homes efficiently.",
+        "Modern food ordering system is a web application built using HTML, CSS, and JavaScript that allows users to easily browse menus, customize their orders",
       imageUrl: p1,
       githubLink: "https://github.com/sossygebremeskel/student_management_system.git",
-      websiteLink: "https://",
+      websiteLink: "https://frolicking-mermaid-3cd399.netlify.app/",
     },
 
     {
